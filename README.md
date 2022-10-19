@@ -8,7 +8,7 @@ Gruppenmitglieder :	Abdurrahman Yildirim
 
 
 Ziel : 			Erstellen einer Website mit 3 oder mehr links zu den Teilnehmern und ein 
-			kleines Portfolio
+				kleines Portfolio
 
 
 
