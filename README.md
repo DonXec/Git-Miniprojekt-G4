@@ -14,4 +14,6 @@ Ergänzung :		auf jedem seiner Seite nochmal eine verlinkung zu den anderen teil
 
 Verlinkungen:	abdu.html	binod.html	andreas.html	lukas.html
 
+Zeit :			Frietag 21.10.2022 18:00 Uhr
+
 
